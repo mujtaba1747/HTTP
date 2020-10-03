@@ -1,0 +1,3 @@
+nc www.google.com 80 -vvv
+GET / HTTP/1.1
+Host : google.com  -- Mandatory since v1.1
